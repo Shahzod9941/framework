@@ -2,5 +2,8 @@
 
 require_once './functions.php';
 
-echo sum(3, 7);
-echo sum(4, 23);
+echo sum(1, 2);
+
+echo "\n";
+
+echo mult(3, 5);
