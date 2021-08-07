@@ -2,5 +2,6 @@
 
 function sum(int $a, int $b) :int
 {
-    return $a + $b;
+    $sum = $a + $b;
+    return $sum;
 }
