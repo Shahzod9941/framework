@@ -2,10 +2,12 @@
 
 function sum(int $a, int $b) :int
 {
-    return $a + $b;
+    $sum = $a + $b;
+    return $sum;
 }
 
 function  mult(int $a, $b) :int 
 {
-    return $a * $b;
+    $sum = $a * $b;
+    return $sum;
 }
