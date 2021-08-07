@@ -1,3 +1,5 @@
 <?php
 
 $one = 1;
+
+$three = 3;
