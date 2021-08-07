@@ -1,7 +1,5 @@
 <?php
 
-//master
+require_once './functions.php';
 
-$one = 1;
-
-$three = 3;
+echo sum(3, 7);
